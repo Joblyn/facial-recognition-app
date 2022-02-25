@@ -1,9 +1,10 @@
 .App {
-  text-align: center; 
+  text-align: center;
 }
+
 .center {
   display: flex;
-  justify-content: center; 
+  justify-content: center;
 }
 
 .particles {
